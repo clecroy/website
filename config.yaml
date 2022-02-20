@@ -14,12 +14,12 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Example
-      url: /example/
+    - name: Examples
+      url: https://chaselecroy.netlify.app/examples/
     - name: GitHub
-      url: https://github.com/clecroy/website
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://github.com/clecroy/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/chase-lecroy/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
