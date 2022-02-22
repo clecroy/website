@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: Chase LeCroy
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,8 +14,8 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Examples
-      url: https://chaselecroy.netlify.app/examples/
+    - name: About
+      url: /about/
     - name: GitHub
       url: https://github.com/clecroy/
     - name: LinkedIn
