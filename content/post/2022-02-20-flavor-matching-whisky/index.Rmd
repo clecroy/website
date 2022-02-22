@@ -23,6 +23,7 @@ library(quanteda.textmodels)
 knitr::opts_chunk$set(
   warning = FALSE,
   message = FALSE,
+  collapse = TRUE,
   fig.path = ""
 )
 ```
