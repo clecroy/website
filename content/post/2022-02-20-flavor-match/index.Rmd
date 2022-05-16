@@ -1,12 +1,12 @@
 ---
-title: "Flavor matching whisky"
+title: "Can LDA be used to match flavors?"
 author: "Chase"
 date: '2022-02-20'
 output:
   html_document:
     df_print: paged
 categories: R
-tags: lsa
+tags: lda, nlp
 slug: flavor-matching-whisky
 ---
 
